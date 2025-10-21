@@ -1,0 +1,10 @@
+# VS Code settings (keep template only)
+VS-Code/settings.json
+VS-Code/keybindings.json
+
+# IDE
+.vscode/
+*.code-workspace
+
+# OS
+.DS_Store

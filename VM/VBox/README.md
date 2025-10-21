@@ -1,0 +1,1 @@
+Extended guid how to setup different VMs on Vbox with explanation, commands, examples and troubleshooting for Linux, PowerShell and Mac OS.

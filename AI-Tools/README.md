@@ -1,0 +1,1 @@
+Local LLM (Large Language Model). Run locally on Linux, preferably on VM. 
